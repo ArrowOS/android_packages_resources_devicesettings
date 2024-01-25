@@ -257,4 +257,13 @@
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+
+    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimum refresh rate</string>
+    <string name="device_power_save_refresh_rate">Save battery automatically</string>
+    <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
+    <string name="refresh_rate_settings_title">Screen refresh rate</string>
+    <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
+    <string name="refresh_rate_tile_title">Refresh Rate</string>
+    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
 </resources>
