@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b4eedf1c_be1b26ac",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 353
+      },
+      "writtenOn": "2024-01-28T06:12:51Z",
+      "side": 1,
+      "message": "Just add the strings in your Device Parts strings.xml",
+      "revId": "2b7d4c379f92a1a6950e0d4396bea2d39f443e62",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
